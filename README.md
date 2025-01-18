@@ -24,6 +24,7 @@ Here are some of the projects I have worked on:
 - [Project 2](https://github.com/santhosharun99/Womens-Tennis-Stats-since-2007).
 - [Project 3](https://github.com/santhosharun99/IPL-data-visualisation).
 - [Project 3](https://github.com/santhosharun99/stock-price-prediction).
+- [Project 4]([https://github.com/santhosharun99/stock-price-prediction](https://github.com/santhosharun99/World-Heritage-Sites-and-Marine-Protected-Areas-Mapping)).
 
 These are academic assignments from my MSc Data Science and AI
 - https://github.com/santhosharun99/assignments
